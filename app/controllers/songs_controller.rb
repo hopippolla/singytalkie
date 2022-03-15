@@ -12,6 +12,10 @@ class SongsController < ApplicationController
     redirect_to @song
   end
 
+  def score
+    
+  end
+
   private
 
   def set_song

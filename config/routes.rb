@@ -1,8 +1,9 @@
 Rails.application.routes.draw do
   devise_for :users
   root to: 'pages#index'
-  resources :songs, only: %i[show index]
+  resources :songs, only: %i[show index score]
 
+  get ':score', to: 'songs#score', as: :score
   get 'random', to: 'songs#random', as: :random
   get ':slug', to: 'pages#show', as: 'pages'
 
