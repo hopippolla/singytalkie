@@ -503,3 +503,129 @@ lyrics06 = Song.create(song_link: "https://www.youtube.com/embed/qztKD75J2BM",
                       Acho que tudo está em meu coração
                       Você será minha, minha única e somente
                       É assim que deveria começar?")
+lyrics07 = Song.create(song_link: "https://www.youtube.com/watch?v=JnfyjwChuNU",
+                      lyrics: "Standing in line to see the show tonight
+                      And there's a light on, heavy glow
+                      By the way, I tried to say
+                      I'd be there waiting for
+                      Dani, the girl, is singing songs to me
+                      Beneath the marquee, overload
+
+                      Steak knife, card shark
+                      Con job, boot cut
+                      Skin that flick, she's such a little DJ
+                      To get there quick by street, but not the freeway
+                      Turn that trick to make a little leeway
+                      Beat that nic, but not the way that we play
+                      Dogtown, blood bath
+                      Rib cage, soft tail
+
+                      Standing in line to see the show tonight
+                      And there's a light on, heavy glow
+                      By the way, I tried to say
+                      I'd be there waiting for
+
+                      Black Jack, dope dick
+                      Pawn shop, quick pick
+                      Kiss that dyke, I know you want to hold one
+                      Not on strike, but I'm about to bowl one
+                      Bite that mic, I know you never stole one
+                      Girls that like a story, so I told one
+                      Song bird, main line
+                      Cash back, hard top
+
+                      Standing in line to see the show tonight
+                      And there's a light on, heavy glow
+                      By the way, I tried to say
+                      I'd be there waiting for
+                      Dani, the girl, is singing songs to me
+                      Beneath the marquee, oversold
+                      By the way, I tried to say
+                      I'd be there waiting for
+
+                      Oh, ah, guess you never meant it
+                      Oh, ah, guess you never meant it
+                      Oh, ah, guess you never meant it
+                      Oh, ah, guess you never meant it
+                      Oh, ah, guess you never meant it
+                      Oh, ah, guess you never meant it
+                      Oh, ah, guess you never meant it
+                      Oh, ah
+
+                      Standing in line to see the show tonight
+                      And there's a light on, heavy glow
+                      By the way, I tried to say
+                      I'd be there waiting for
+                      Dani, the girl, is singing songs to me
+                      Beneath the marquee, oversold
+                      By the way, I tried to say
+                      I know you from before
+
+                      Standing in line to see the show tonight
+                      And there's a light on, heavy glow
+                      By the way, I tried to say
+                      I'd be there waiting for",
+                      title: "By The Way",
+                      artist: "Red Hot Chili Peppers",
+                      genre: "Alternative Rock",
+                      translation: "Esperando na fila para ver o show essa noite
+                      E há uma luz acesa, brilho forte
+                      Falando nisso, eu tentei dizer
+                      Que eu estaria lá esperando
+                      Dani, a garota, está cantando músicas para mim
+                      Debaixo da marquise, lotada
+
+                      Faca de carne, trapaceador
+                      Trabalho sujo, boca de sino
+                      Olhe aquela garota, ela é uma DJ tão pequena
+                      Para chegar lá rápido vá pela rua, mas não pela auto-estrada
+                      Dê a volta naquele truque para fazer um pequeno desvio
+                      Bata naquele fio, mas não do jeito que a gente brinca
+                      Cidade do cão, banheira de sangue
+                      Gaiola de costela, bunda-mole
+
+                      Esperando na fila para ver o show essa noite
+                      E há uma luz acesa, brilho forte
+                      Falando nisso, eu tentei dizer
+                      Que eu estaria lá esperando
+
+                      Black Jack, babaca dopado
+                      Loja de penhores, escolha rápida
+                      Beije aquela lésbica, eu sei que você quer agarrar uma
+                      Não fiz um strike, mas eu estou quase derrubando um pino
+                      Morda aquele microfone, eu sei que você nunca roubou um
+                      Garotas que gostam de histórias, então eu conto uma
+                      Periquito, linha principal
+                      Reembolso, teto de conversível
+
+                      Esperando na fila para ver o show essa noite
+                      E há uma luz acesa, brilho forte
+                      Falando nisso, eu tentei dizer
+                      Que eu estaria lá esperando
+                      Dani, a garota, está cantando músicas para mim
+                      Debaixo da marquise, lotada
+                      Falando nisso, eu tentei dizer
+                      Que eu estaria lá esperando
+
+                      Oh, ah, acho que você nunca quis dizer isso
+                      Oh, ah, acho que você nunca quis dizer isso
+                      Oh, ah, acho que você nunca quis dizer isso
+                      Oh, ah, acho que você nunca quis dizer isso
+                      Oh, ah, acho que você nunca quis dizer isso
+                      Oh, ah, acho que você nunca quis dizer isso
+                      Oh, ah, acho que você nunca quis dizer isso
+                      Oh, ah
+
+                      Esperando na fila para ver o show essa noite
+                      E há uma luz acesa, brilho forte
+                      Falando nisso, eu tentei dizer
+                      Que eu estaria lá esperando
+                      Dani, a garota, está cantando músicas para mim
+                      Debaixo da marquise, lotada
+                      Falando nisso, eu tentei dizer
+                      Eu te conheço de antes
+
+                      Esperando na fila para ver o show essa noite
+                      E há uma luz acesa, brilho forte
+                      Falando nisso, eu tentei dizer
+                      Que eu estaria lá esperando")
