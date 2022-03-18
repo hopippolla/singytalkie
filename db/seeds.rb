@@ -503,7 +503,8 @@ lyrics06 = Song.create(song_link: "https://www.youtube.com/embed/qztKD75J2BM",
                       Acho que tudo está em meu coração
                       Você será minha, minha única e somente
                       É assim que deveria começar?")
-lyrics07 = Song.create(song_link: "https://www.youtube.com/watch?v=JnfyjwChuNU",
+
+lyrics07 = Song.create(song_link: "https://www.youtube.com/embed/JnfyjwChuNU",
                       lyrics: "Standing in line to see the show tonight
                       And there's a light on, heavy glow
                       By the way, I tried to say
@@ -629,3 +630,568 @@ lyrics07 = Song.create(song_link: "https://www.youtube.com/watch?v=JnfyjwChuNU",
                       E há uma luz acesa, brilho forte
                       Falando nisso, eu tentei dizer
                       Que eu estaria lá esperando")
+
+lyrics08 = Song.create(song_link: "https://www.youtube.com/embed/kXYiU_JCYtU",
+                      lyrics: "I'm tired of being what you want me to be
+                      Feeling so faithless, lost under the surface
+                      I don't know what you're expecting of me
+                      Put under the pressure of walking in your shoes
+
+                      (Caught in the undertow, just caught in the undertow)
+                      Every step that I take is another mistake to you
+                      (Caught in the undertow, just caught in the undertow)
+
+                      I've become so numb, I can't feel you there
+                      Become so tired, so much more aware
+                      I'm becoming this, all I want to do
+                      Is be more like me and be less like you
+
+                      Can't you see that you're smothering me?
+                      Holding too tightly, afraid to lose control
+                      'Cause everything that you thought I would be
+                      Has fallen apart right in front of you
+
+                      (Caught in the undertow, just caught in the undertow)
+                      Every step that I take is another mistake to you
+                      (Caught in the undertow, just caught in the undertow)
+                      And every second I waste is more than I can take
+
+                      I've become so numb, I can't feel you there
+                      Become so tired, so much more aware
+                      I'm becoming this, all I want to do
+                      Is be more like me and be less like you
+
+                      And I know I may end up failing too
+                      But I know you were just like me
+                      With someone disappointed in you
+
+                      I've become so numb, I can't feel you there
+                      Become so tired, so much more aware
+                      I'm becoming this, all I want to do
+                      Is be more like me and be less like you
+
+                      I've become so numb, I can't feel you there
+                      (I'm tired of being what you want me to be)
+                      I've become so numb, I can't feel you there
+                      (I'm tired of being what you want me to be)",
+                      title: "Numb",
+                      artist: "Linkin Park",
+                      genre: "Alternative Rock",
+                      translation: "Estou cansado de ser o que você quer que eu seja
+                      Me sentindo tão sem esperança, perdido sob a superfície
+                      Não sei o que você está esperando de mim
+                      Me pressionando para seguir os seus passos
+
+                      (Pego pela correnteza, simplesmente pego pela correnteza)
+                      Cada passo que eu dou é outro erro para você
+                      (Pego pela correnteza, simplesmente pego pela correnteza)
+
+                      Eu me tornei tão entorpecido, não posso te sentir aí
+                      Fiquei tão cansado, tão mais consciente
+                      Estou me tornando isso, tudo que eu quero fazer
+                      É ser mais eu mesmo e ser menos como você
+
+                      Você não consegue ver que está me sufocando?
+                      Segurando forte demais, com medo de perder o controle
+                      Porque tudo que você pensou que eu poderia ser
+                      Desmoronou bem na sua frente
+
+                      (Pego pela correnteza, simplesmente pego pela correnteza)
+                      Cada passo que eu dou é outro erro para você
+                      (Pego pela correnteza, simplesmente pego pela correnteza)
+                      E cada segundo que perco é mais do que posso suportar
+
+                      Eu me tornei tão entorpecido, não posso te sentir aí
+                      Fiquei tão cansado, tão mais consciente
+                      Estou me tornando isso, tudo que eu quero fazer
+                      É ser mais eu mesmo e ser menos como você
+
+                      E eu sei que posso acabar falhando também
+                      Mas eu sei que você era como eu
+                      Com alguém decepcionado com você
+
+                      Eu me tornei tão entorpecido, não posso te sentir aí
+                      Fiquei tão cansado, tão mais consciente
+                      Estou me tornando isso, tudo que eu quero fazer
+                      É ser mais eu mesmo e ser menos como você
+
+                      Eu me tornei tão entorpecido, não posso te sentir aí
+                      (Estou cansado de ser o que você quer que eu seja)
+                      Eu me tornei tão entorpecido, não posso te sentir aí
+                      (Estou cansado de ser o que você quer que eu seja)")
+
+lyrics09 = Song.create(song_link: "https://www.youtube.com/embed/qgaRVvAKoqQ",
+                      lyrics: "Sheets of empty canvas
+                      Untouched sheets of clay
+                      Were laid spread out before me
+                      As her body once did
+
+                      All five horizons
+                      Revolved around her soul
+                      As the earth to the sun
+                      Now the air I tasted and breathed
+                      Has taken a turn
+
+                      Oh, and all I taught her was everything
+                      Oh, I know she gave me all that she wore
+
+                      And now my bitter hands
+                      Chafe beneath the clouds
+                      Of what was everything
+                      Oh, the pictures have
+                      All been washed in black
+                      Tattooed everything
+
+                      I take a walk outside
+                      I'm surrounded by some kids at play
+                      I can feel their laughter
+                      So, why do I sear?
+
+                      Oh, and twisted thoughts that spin round my head
+                      I'm spinning, oh, I'm spinning
+                      How quick the sun can drop away?
+
+                      And now my bitter hands
+                      Cradle broken glass
+                      Of what was everything
+                      All the pictures have
+                      All been washed in black
+                      Tattooed everything
+                      All the love gone bad
+                      Turned my world to black
+                      Tattooed all I see
+                      All that I am
+                      All that I'll be, yeah
+
+                      I know someday you'll have a beautiful life
+                      I know you'll be a star
+                      In somebody else's sky, but why? Why? Why
+                      Can't it be, oh, can't it be mine?",
+                      title: "Black",
+                      artist: "Pearl Jam",
+                      genre: "Rock",
+                      translation: "Pilhas de telas vazias
+                      Peças intocadas de argila
+                      Foram espalhadas diante de mim
+                      Como o corpo dela um dia esteve
+
+                      Todos os cinco horizontes
+                      Girando ao redor de sua alma
+                      Como a Terra ao redor do Sol
+                      Agora o ar que provei e respirei
+                      Se tornou diferente
+
+                      Oh, e o que ensinei a ela era tudo
+                      Oh, eu sei que ela me deu tudo que ela possuía
+
+                      E agora minhas mãos amarguradas
+                      Se esfolam abaixo das nuvens
+                      De o que era tudo
+                      Oh, as imagens foram
+                      Todas banhadas em preto
+                      Tatuando tudo
+
+                      Eu saio para passear
+                      Estou cercado por algumas crianças brincando
+                      Eu posso sentir suas risadas
+                      Então, por que eu desanimo?
+
+                      Oh, e os pensamentos distorcidos que giram em volta da minha cabeça
+                      Estou girando, oh, estou girando
+                      Quão rápido o Sol pode se pôr?
+
+                      E agora minhas mãos amarguradas
+                      Embalam cacos de vidro
+                      Do que era tudo
+                      Todas as imagens foram
+                      Todas banhadas em preto
+                      Tatuando tudo
+                      Todo o amor tornou-se prejudicial
+                      Transformou meu mundo em escuridão
+                      Tatuou tudo que vejo
+                      Tudo o que sou
+                      Tudo o que serei, sim
+
+                      Eu sei que algum dia você terá uma bela vida
+                      Eu sei que você será uma estrela
+                      No céu de outro alguém, mas por quê? Por quê? Por quê?
+                      Não pode ser, oh, não pode ser no meu?")
+lyrics10 = Song.create(song_link: "https://www.youtube.com/embed/oRdxUFDoQe0",
+                      lyrics: "They told him: Don't you ever come around here
+                      Don't wanna see your face, you better disappear
+                      The fire's in their eyes
+                      And their words are really clear
+                      So beat it, just beat it
+
+                      You better run, you better do what you can
+                      Don't wanna see no blood, don't be a macho man (oh)
+                      You wanna be tough, better do what you can
+                      So beat it, but you wanna be bad
+
+                      Just beat it (beat it), beat it (beat it)
+                      No one wants to be defeated
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right
+                      Just beat it (beat it)
+                      Just beat it (beat it)
+                      Just beat it (beat it)
+                      Just beat it (beat it) (uh)
+
+                      They're out to get you
+                      Better leave while you can
+                      Don't wanna be a boy, you wanna be a man
+                      You wanna stay alive? Better do what you can
+                      So beat it, just beat it (oh)
+
+                      You have to show them that you're really not scared
+                      You're playin' with your life
+                      This ain't no truth or dare (oh)
+                      They'll kick you, then they'll beat you
+                      Then they'll tell you: It's fair
+                      So beat it, but you wanna be bad
+
+                      Just beat it (beat it), beat it (beat it)
+                      No one wants to be defeated
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right
+
+                      Just beat it (beat it), beat it (beat it)
+                      No one wants to be defeated
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right
+                      Just beat it (beat it, beat it, beat it)
+                      Beat it, beat it, beat it
+                      Beat it, beat it, beat it
+                      Beat it, beat it, beat it
+                      Beat it, beat it, beat it
+
+                      Beat it (beat it), beat it (beat it)
+                      No one wants to be defeated
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right (who's right)
+
+                      Just beat it (beat it), beat it (beat it)
+                      No one wants to be defeated (oh, Lord)
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right
+
+                      Just beat it (beat it), beat it (beat it)
+                      No one wants to be defeated (oh, no)
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right
+
+                      Just beat it (beat it), beat it (beat it)
+                      No one wants to be defeated (oh, Lord)
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right (who's right)
+
+                      Just beat it (beat it), beat it (beat it)
+                      No one wants to be defeated (oh, no)
+                      Showin' how funky and strong is your fight
+                      It doesn't matter who's wrong or right",
+                      title: "Beat It",
+                      artist: "Michael Jackson",
+                      genre: "Pop",
+                      translation: "Eles o disseram: Nunca mais volte aqui
+                      Não querem ver a sua cara, é melhor você desaparecer
+                      Há fogo em seus olhos
+                      E suas palavras são bem claras
+                      Então caia fora, apenas caia fora
+
+                      É melhor você correr, é melhor fazer o que puder
+                      Não quero ver nenhum sangue, não seja machão (oh)
+                      Você quer ser durão, melhor fazer o que puder
+                      Então caia fora, mas você quer ser mau
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado
+                      Apenas caia fora (caia fora)
+                      Apenas caia fora (caia fora)
+                      Apenas caia fora (caia fora)
+                      Apenas caia fora (caia fora) (uh)
+
+                      Eles estão atrás de você
+                      É melhor ir embora enquanto puder
+                      Não quer ser um menino, você quer ser um homem
+                      Você quer ficar vivo? É melhor fazer o que puder
+                      Então caia fora, apenas caia fora (oh)
+
+                      Você tem que mostrar para eles que não está assustado de verdade
+                      Você está brincando com a sua vida
+                      Isso não é verdade ou consequência (oh)
+                      Eles vão te chutar, então vão bater em você
+                      Então te dirão: Bem feito
+                      Então caia fora, mas você quer ser mau
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado
+                      Apenas caia fora (caia fora, caia fora, caia fora)
+                      Cai fora, cai fora, cai fora
+                      Cai fora, cai fora, cai fora
+                      Cai fora, cai fora, cai fora
+                      Cai fora, cai fora, cai fora
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado
+
+                      Apenas caia fora (caia fora), caia fora (caia fora)
+                      Ninguém quer ser derrotado
+                      Mostrando como você briga bem
+                      Não importa quem está certo ou errado")
+
+lyrics11 = Song.create(song_link: "https://www.youtube.com/embed/PIb6AZdTr-A",
+                      lyrics: "I come home in the morning light, my mother says
+                      When you gonna live your life right?
+                      Oh, mother dear, we're not fortunate ones
+                      And girls, they wanna have fun
+                      Oh, girls just wanna have fun
+
+                      The phone rings in the middle of night, my father yells
+                      What you gonna do with your life?
+                      Oh, daddy dear, you know you're still number one
+                      But girls, they wanna have fun
+                      Oh, girls just wanna have
+
+                      That's all they really want, some fun
+                      When the working day is done
+                      Oh, girls they wanna have fun
+                      Oh, girls just wanna have fun
+
+                      (Girls, they want)
+                      (Wanna have fun)
+                      (And girls)
+                      (Wanna have)
+
+                      Some boys take a beautiful girl
+                      And hide her away from the rest of the world
+                      I wanna be the one to walk in the Sun
+                      Oh, girls, they wanna have fun
+                      Oh, girls just wanna have
+
+                      That's all they really want, some fun
+                      When the working day is done
+                      Oh, girls, they wanna have fun
+                      Oh, girls just wanna have fun
+
+                      (Girls, they want)
+                      (Wanna have fun)
+                      (And girls)
+                      (Wanna have)
+
+                      They just wanna
+                      They just wanna
+                      (Girls, girls just wanna have fun)
+                      They just wanna
+                      They just wanna
+                      Oh, girls!
+                      Girls just wanna have fun
+                      (They just wanna
+                      They just wanna)
+
+                      They just wanna
+                      They just wanna
+                      (Girls, girls just wanna have fun)
+                      They just wanna
+                      They just wanna
+                      Oh, girls!
+                      Girls just wanna have fun
+
+                      When the working
+                      When the working day is done
+                      Oh, when the working day is done
+                      Oh, girls!
+                      Girls just wanna have fun
+
+                      (Everybody)
+
+                      They just wanna
+                      They just wanna
+                      (Girls, girls just wanna have fun)
+                      They just wanna
+                      They just wanna
+                      Oh, girls!
+                      Girls just wanna have fun
+
+                      (They just wanna
+                      They just wanna)
+                      They just wanna
+                      They just wanna
+                      (Girls, girls just wanna have fun)
+                      They just wanna
+                      They just wanna
+                      Oh, girls!
+                      Oh, girls just wanna have fun
+
+                      When the working
+                      When the working day is done
+                      Oh, when the working day is done
+                      Oh, girls!
+                      Girls just wanna have fun
+
+                      (Everybody)
+
+                      (They just wanna
+                      They just wanna)
+                      (Girls, girls just wanna have fun)
+                      They just wanna
+                      They just wanna
+                      Oh, girls!
+                      Oh, girls just wanna have fun
+                      When the working
+                      When the working day is done",
+                      title: "Girls Just Want To Have Fun",
+                      artist: "Cyndi Lauper",
+                      genre: "Pop",
+                      translation: "Chego em casa com o nascer do Sol, minha mãe diz
+                      Quando é que você vai viver sua vida direito?
+                      Oh, querida mãe, nós não somos as afortunadas
+                      E garotas, elas querem se divertir
+                      Oh, garotas só querem se divertir
+
+                      O telefone toca no meio da noite e meu pai grita
+                      O que você vai fazer com a sua vida?
+                      Oh, querido papai, você sabe que ainda é o número um
+                      Mas as garotas, elas querem se divertir
+                      Oh, garotas só querem
+
+                      Isso é tudo que elas realmente querem, um pouco de diversão
+                      Quando o dia de trabalho termina
+                      Oh, garotas, elas querem se divertir
+                      Oh, garotas só querem se divertir
+
+                      (As garotas, elas querem
+                      Querem se divertir
+                      E garotas
+                      Querem)
+
+                      Alguns garotos pegam uma linda garota
+                      E a escondem do resto do mundo
+                      Eu quero ser aquela que caminha no Sol
+                      Oh, garotas, elas querem se divertir
+                      Oh, garotas só querem
+
+                      Isso é tudo que elas realmente querem, um pouco de diversão
+                      Quando o dia de trabalho termina
+                      Oh, garotas, elas querem se divertir
+                      Oh, garotas só querem se divertir
+
+                      (As garotas, elas querem
+                      Querem se divertir
+                      E garotas
+                      Querem)
+
+                      Elas só querem
+                      Elas só querem
+                      (Garotas, garotas só querem se divertir)
+                      Elas só querem
+                      Elas só querem
+                      Oh, garotas!
+                      Garotas só querem se divertir
+                      (Elas só querem
+                      Elas só querem)
+
+                      Elas só querem
+                      Elas só querem
+                      (Garotas, garotas só querem se divertir)
+                      Elas só querem
+                      Elas só querem
+                      Oh, garotas!
+                      Garotas só querem se divertir
+
+                      Quando o trabalho
+                      Quando o dia de trabalho acaba
+                      Oh, quando o dia de trabalho acaba
+                      Oh, garotas
+                      Garotas só querem se divertir
+
+                      (Todo mundo)
+
+                      Elas só querem
+                      Elas só querem
+                      (Garotas, garotas só querem se divertir)
+                      Elas só querem
+                      Elas só querem
+                      Oh, garotas!
+                      Garotas só querem se divertir
+
+                      (Elas só querem
+                      Elas só querem)
+                      Elas só querem
+                      Elas só querem
+                      (Garotas, garotas só querem se divertir)
+                      Elas só querem
+                      Elas só querem
+                      Oh, garotas!
+                      Oh, garotas só querem se divertir
+
+                      Quando o trabalho
+                      Quando o dia de trabalho acaba
+                      Oh, quando o dia de trabalho acaba
+                      Oh, garotas!
+                      Garotas só querem se divertir
+
+                      (Todo mundo)
+
+                      (Elas só querem
+                      Elas só querem)
+                      (Garotas, garotas só querem se divertir)
+                      Elas só querem
+                      Elas só querem
+                      Oh, garotas!
+                      Oh, garotas só querem se divertir
+                      Quando o trabalho
+                      Quando o dia de trabalho acaba")
+
+lyrics12 = Song.create(song_link: "",
+                      lyrics: "",
+                      title: "",
+                      artist: "",
+                      genre: "",
+                      translation: "")
+
+lyrics13 = Song.create(song_link: "",
+                      lyrics: "",
+                      title: "",
+                      artist: "",
+                      genre: "",
+                      translation: "")
+
+lyrics14 = Song.create(song_link: "",
+                      lyrics: "",
+                      title: "",
+                      artist: "",
+                      genre: "",
+                      translation: "")
+
+lyrics15 = Song.create(song_link: "",
+                      lyrics: "",
+                      title: "",
+                      artist: "",
+                      genre: "",
+                      translation: "")
